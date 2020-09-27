@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d0438"],{"66df":function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",{staticClass:"admin"},[n._v(" 这是管理员页面 ")])},s=[],c={name:"amain"},i=c,u=e("2877"),d=Object(u["a"])(i,t,s,!1,null,"0a919651",null);a["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0d0438.370bb9fd.js.map

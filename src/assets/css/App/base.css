@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    outline: none;
+    list-style: none;
+    font-size: 1.1rem;
+}
+.input .el-input .el-input__inner:focus{
+    border: 1px solid #ff8d99;
+}
+.radio{
+    height: 80px;
+}
+.radio .el-radio-group{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 50px auto;
+}

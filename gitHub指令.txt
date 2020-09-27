@@ -1,0 +1,4 @@
+git remote add origin 你的地址
+git push -u origin master
+
+我的git remote add origin https://github.com/xueyou-yinghua/-.git

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2094f3"],{a905:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"main"},[n._v(" 这是学生页面 ")])},a=[],o=e("0e4a"),s={name:"smain",methods:{btnClick:function(){Object(o["a"])("/getText","").then((function(n){console.log(n)})).catch((function(n){console.log(n)}))}}},i=s,l=e("2877"),u=Object(l["a"])(i,c,a,!1,null,"4aa4f5d1",null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d2094f3.d5a2c0d5.js.map
